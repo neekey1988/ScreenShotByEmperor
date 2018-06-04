@@ -1,0 +1,2 @@
+pip install pyautogui;
+手动安装 pyhook
